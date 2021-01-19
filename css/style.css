@@ -1,4 +1,8 @@
 @font-face {
     font-family: MavenPro-Regular;
-    src: url(fonts/MavenPro-Regular.ttf); /* Путь к файлу со шрифтом */
+    src: url(https://github.com/ArasakaCorp/Cyberpunk-PunBB/blob/main/fomts/MavenPro-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+body {
+    font-family: MavenPro-Regular, normal;
 }
