@@ -1,8 +1,8 @@
 @font-face {
-    font-family: MavenPro-Regular;
-    src: url(https://github.com/ArasakaCorp/arasakacorp.github.io/blob/main/fomts/MavenPro-Regular.ttf?raw=true); /* Путь к файлу со шрифтом */
+    font-family: "Blender-Pro";
+    src: url(https://github.com/ArasakaCorp/arasakacorp.github.io/blob/main/fomts/Blender-Pro-Medium.ttf?raw=true);
 }
 
 body {
-    font-family: MavenPro-Regular, normal;
+    font-family: "Blender-Pro", normal;
 }
